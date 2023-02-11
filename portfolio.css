@@ -1,0 +1,171 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-color: black;
+    color: white;
+    font-size: 17px;
+}
+#body1{
+    width: 1343.4px;
+    height: 650px;
+}
+#screen1{
+    margin: 35.5px 85px;
+    height: 550px;
+}
+.diva{
+    display: inline-block;
+}
+.diva a{
+    text-decoration: none;
+}
+.diva a:link{
+    color: white;
+}
+.diva a:visited{
+    color: white;
+}
+.diva a:hover{
+    color: rgb(240, 63, 63);
+}
+
+#div2{
+    line-height: 70px;
+}
+#div2 p{
+    font-size: 21px;
+}
+#div2 h1{
+    font-size: 70px;
+}
+#inp{
+    width: 400px;
+    height: 40px;
+    border-radius: 50px;
+    padding-left: 15px;
+    border-color: rgb(240, 63, 63);
+}
+#lksub{
+    display: block;
+    background-color: red;
+    width: 112px;
+    text-align: center;
+    padding: 20px 0;
+    border-radius: 18px;
+}
+#lksub:hover{
+    color: black;
+    padding: 25px 5px;
+}
+#divimg{
+    background-color: rgb(240, 63, 63);
+    width: 90px;
+    padding: 9px 4px;
+    border-radius: 70px;
+    text-align: center;
+    /* font-size: 14px; */
+    position: absolute;
+    top: 423px;
+    left: 411px;
+    box-shadow: 0px 0px 5px #000, 0px 0px 15px #858585;
+    color: white;
+    border-color: rgb(240, 63, 63);
+    cursor: pointer;
+}
+
+#screen2{
+    background-color: rgb(37, 37, 37);
+    width: inherit;
+    height: 480px;
+    padding: 100px;
+}
+#s2d1, #s2d2{ 
+    height: 500px;
+}
+#s2d1{
+    border-width: 1px;
+    width: 440px;
+}
+#s2d2{
+    width: 562px;
+    position: absolute;
+    left: 670px;
+    top: 755px;
+    text-align: center;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+}
+#s2d2 button{
+    width: 120px;
+    padding: 13px;
+    border-radius: 40px;
+    background-color: rgb(240, 63, 63);
+    color: white;
+    border-color: rgb(240, 63, 63);
+    cursor: pointer;
+}
+#s2d2 button:hover{
+    background-color: black;
+}
+
+
+#screen3{
+    background-color: rgb(19, 17, 17);
+    padding: 100px;
+    width: inherit;
+    height: 480px;
+}
+.s3{
+    width: 250px;
+    border-radius: 20px;
+    display: inline-block;
+    text-align: center;
+    padding: 50px 30px 80px;
+    background-color: rgb(36, 36, 36);
+}
+.s3 h6{
+    font-size: 25px;
+    padding-bottom: 30px;
+}
+.s3 p{
+    color: violet;
+    line-height: 27px;
+    padding-bottom: 25px;
+}
+.al{
+    width: 120px;
+    padding: 13px;
+    border-radius: 40px;
+    background-color: rgb(240, 63, 63);
+    color: white;
+    border-color: rgb(240, 63, 63);
+    text-decoration: none;
+    border-style: solid;
+
+}
+.al:hover{
+    background-color: black;
+}
+
+
+#screen4{
+    background-color: rgb(19, 17, 17);
+    width: inherit;
+    height: 680px;
+}
+#s4d1{
+    background-color: rgb(36, 36, 36);
+    height: 200px;
+    text-align: center;
+    padding-top: 100px;
+}
+
+#ldiv{
+    text-align: center;
+    padding-top: 110px;
+}
+#ldiv h3{
+    font-size: 50px;
+}
